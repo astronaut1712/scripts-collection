@@ -3,6 +3,10 @@
 Some good scripts to make a cool terminal :wink:
 ---
 
+### zsh
+
+https://github.com/robbyrussell/oh-my-zsh
+
 ### VIM CONFIG
 
 https://github.com/astronaut1712/vimrc
